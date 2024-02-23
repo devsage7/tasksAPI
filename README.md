@@ -1,2 +1,2 @@
-# API de gestión de Tareas.
+# API de Gestión de Tareas.
 Spring MVC + Spring JPA + Swagger
